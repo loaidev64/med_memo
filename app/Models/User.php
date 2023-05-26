@@ -59,7 +59,7 @@ class User extends Authenticatable
             set: fn ($value) => Hash::make($value),
         );
     }
-
+  
     public function role()
     {
         return $this->belongsTo(Role::class);
