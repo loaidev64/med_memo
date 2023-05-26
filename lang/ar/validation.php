@@ -193,4 +193,5 @@ return [
     'you_have_been_invited_to_join_team' => 'لقد تمت دعوتك للإنضمام إلى فريق :teamName!',
     'you_have_x_invitations_remaining' => 'لديك حاليا :count دعوة/دعوات متبقية.',
     'you_have_x_teams_remaining' => 'لديك حاليا :teamCount فرق متبقية.',
+    'provider' => 'هذا البريد الإلكتروني لا ينتمي الى هذا المزود، المزود الصحيح هو ',
 ];
